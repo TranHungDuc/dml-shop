@@ -63,7 +63,7 @@ const Checkout = () => {
                                     <MdOutlineArrowBackIos className='mx-2'/>
                                     <Link to='/cart' className='text-dark underline-link'>Return to Cart</Link>
                                 </div>
-                                <Link to='/cart' className='button'>Continue shopping</Link>
+                                <Link to='/cart' className='button'>Continue to shipping</Link>
                             </div>
                         </div>
                     </form>
